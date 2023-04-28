@@ -1,0 +1,10 @@
+.titleHeader{
+    height: 150px;
+    background-color: #7b8901;
+    font-size: 35px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
